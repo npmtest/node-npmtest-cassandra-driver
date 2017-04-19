@@ -1,4 +1,7 @@
-# test coverage for  [cassandra-driver (v3.2.0)](https://github.com/datastax/nodejs-driver#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cassandra-driver.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cassandra-driver) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cassandra-driver.svg)](https://travis-ci.org/npmtest/node-npmtest-cassandra-driver)
+# npmtest-cassandra-driver
+
+#### basic test coverage for  [cassandra-driver (v3.2.0)](https://github.com/datastax/nodejs-driver#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cassandra-driver.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cassandra-driver) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cassandra-driver.svg)](https://travis-ci.org/npmtest/node-npmtest-cassandra-driver)
+
 #### DataStax Node.js Driver for Apache Cassandra
 
 [![NPM](https://nodei.co/npm/cassandra-driver.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cassandra-driver)
